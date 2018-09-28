@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ab.css" ?>
+
+<students>
+	<student>
+		<usn>USN:4VV15CS0046</usn>
+		<name>NAME:KEERTHANA</name>
+		<email>EMAIL:kee@gmail.com</email>
+		<college>COLLEGE:VVCE </college>
+		<branch>BRANCH:CSE</branch>
+	</student>
+	
+	<student>
+		<usn>USN:4VV15CS0025</usn>
+		<name>NAME:DISHA</name>
+		<email>EMAIL:dish@gmail.com</email>
+		<college>COLLEGE:VVCE </college>
+		<branch>BRANCH:CSE</branch>
+	</student>
+	
+	<student>
+		<usn>USN:4VV15CS0006</usn>
+		<name>NAME:ANAM</name>
+		<email>EMAIL:ana@gmail.com</email>
+		<college>COLLEGE:VVCE </college>
+		<branch>BRANCH:CSE</branch>
+	</student>
+</students>

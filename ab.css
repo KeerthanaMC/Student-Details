@@ -1,0 +1,18 @@
+students{
+	display:block;
+	margin-left:300px;
+	background-color: yellow;
+}
+usn{
+	display:block;
+	color:red;
+}
+name{
+	display:block;
+	color:blue;
+}
+email{
+	display:block;
+	color:green;
+}
+		
